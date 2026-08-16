@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "name": "NH-48, Mumbai",
+    "contractor": "ABC Ltd.",
+    "status": "In Progress",
+    "expectedCompletion": "2023-08-21"
+  },
+  {
+    "id": "2",
+    "name": "LBS Marg, Delhi",
+    "contractor": "XYZ Pvt Ltd.",
+    "status": "In Progress",
+    "expectedCompletion": "2023-08-21"
+  },
+  {
+    "id": "3",
+    "name": "Shivajinagar, Pune",
+    "contractor": "PQR Builders",
+    "status": "Delayed",
+    "expectedCompletion": "2023-08-30"
+  },
+  {
+    "name": "test",
+    "contractor": "test",
+    "status": "In Progress",
+    "expectedCompletion": "2025-08-04",
+    "id": "1756011108975"
+  },
+  {
+    "name": "test2",
+    "contractor": "test2",
+    "status": "In Progress",
+    "expectedCompletion": "2025-10-29",
+    "id": "1756012007556"
+  }
+]
