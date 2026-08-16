@@ -1,0 +1,8 @@
+Create account : https://aptos.dev/network/faucet
+Change  path : /Users/apple/india-road-directory/move/road-directory/
+aptos move compile
+aptos move test
+npm run deploy:direct
+npm run initialize
+npm run seed
+npm run dev

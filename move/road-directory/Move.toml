@@ -1,0 +1,18 @@
+[package]
+name = "RoadDirectory"
+version = "1.0.0"
+authors = []
+
+[addresses]
+RoadDirectory = "0x35fc41cfb521f4d2612f5aa5de1cfc94b2560e9222c330e62c6f56c935759231"
+std = "0x1"
+aptos_framework = "0x1"
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
